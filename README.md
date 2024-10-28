@@ -30,22 +30,22 @@ This is where i documented my first project while learning data analysis with th
 ###  EXPLORATORY DATA ANALYSIS
  The goal of this analysis is to produce an interactive PowerBI dashboard that highlights the following findings; 
  1. Using Excel to Perform:
-    i. An initial exploratory of the Sales Data,using pivot tables to summarize;
+  - An initial exploratory of the Sales Data,using pivot tables to summarize;
     - Total Sales by Product
     - Total Sales by Region and
     - Total Sales by Month.
-   ii. Using Excel formulas to calculate metrics such as:
+  - Using Excel formulas to calculate metrics such as:
     - Average Sales per product
     - Total Revenue by Region
-  iii. Create any other interesting report.
+  - Create any other interesting report.
 2. Using SQL,write queries to extract key insight based on the follwing questions:
-   i. Retrieve the total sales for each product category
-  ii. Find the number of Sales transaction in each Region
- iii. Find the highest-selling product by total sales values
-  iv. Calulate total revenue per product
-   v. Calculate monthly Sales totals for the current year.
-  vi. Find the Top 5 customers by total purchase amount
- vii. Calculate the percentage of total sales contributed by each region
-viii. Identfy products with no sales in the last quarter
+    - Retrieve the total sales for each product category
+    - Find the number of Sales transaction in each Region
+    - Find the highest-selling product by total sales values
+    - Calulate total revenue per product
+    - Calculate monthly Sales totals for the current year.
+    - Find the Top 5 customers by total purchase amount
+    - Calculate the percentage of total sales contributed by each region
+    - Identfy products with no sales in the last quarter
 3. Using PowerBI: Create a dashboard that visualizes the insights found in Excel and SQL.The dashboard should include
    a Sales Overview,Top-Performance products and Regional breakdown.
