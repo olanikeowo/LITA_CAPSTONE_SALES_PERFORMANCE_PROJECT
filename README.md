@@ -11,7 +11,7 @@ This is where i documented my first project while learning data analysis with th
 ---
 ### DATA SOURCES
   The Data used for this project work is gotten from Capstone.The primary source of the Data is Data CSV and it is an open source Data that can be freely 
-  downloaded from Kaggle or any other Data repository site.
+  downloaded from Kaggle or any other Data repository site
 ---
 ### TOOL USED
 -Microsoft Excel :
