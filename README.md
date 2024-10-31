@@ -1,5 +1,5 @@
 ## LITA_CAPSTONE_SALES_PROJECT
-    This is where i documented my first project while learning data analysis with the Incubator hub.
+This is where i documented my first project while learning data analysis with the Incubator hub.
 ### PROJECT TITLE: Sales Performance Analysis for a Retail Store. 
 ---
 ### PROJECT DESCRIPTION
