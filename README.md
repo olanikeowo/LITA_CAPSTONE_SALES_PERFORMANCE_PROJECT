@@ -1,17 +1,19 @@
 ## LITA_CAPSTONE_SALES_PROJECT
-This is where i documented my first project while learning data analysis with the Incubator hub.
+    This is where i documented my first project while learning data analysis with the Incubator hub.
 ---
 ### PROJECT TITLE: Sales Performance Analysis for a Retail Store. 
 ---
 ### PROJECT DESCRIPTION
-  This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data using Pivot table from Capstone Dataset which includes,
-  Sales table and Customer table. Also, different queries were executed from the database using SQL and thereafter,imported into PowerBI 
-  where the actual analysis was carried out in order to discover 
-  the key insights such as the top selling products,Regional performance and Monthly Sales trends.
+    This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data 
+    using Pivot table from Capstone Sales Dataset. Also, different queries were executed from the 
+    database using SQL and thereafter,imported into PowerBI where the actual analysis was carried out    
+    in order to discover the key insights such as the top selling products,Regional performance and 
+    Monthly Sales trends.
 ---
 ### DATA SOURCES
-  The Data used for this project work is gotten from Capstone.The primary source of the Data is Data CSV and it is an open source Data that can be freely 
-  downloaded from Kaggle or any other Data repository site
+    The Data used for this project work is gotten from LITA Incubator.The primary source 
+    of the Data is Data CSV and it is an open source Data that can be freely downloaded
+    from Kaggle or any other Data repository site
 ---
 ### TOOL USED
 -Microsoft Excel :
@@ -60,10 +62,10 @@ This is where i documented my first project while learning data analysis with th
     Diagram of the pivot tables together with the chart
 
     
- The Sales Table and Customer Tables were imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
+ The Sales table was imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
  DIAGRAM
 
-These tables were then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column quality,distribution, profile and Data types.
+The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column quality,distribution, profile and Data types.
   Diagram of the Table imported
 
   Several expressions and functions were made to arrive at a desired KPI or metrics. which are:
