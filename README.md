@@ -62,8 +62,9 @@ function to search for those empty rows. Then, Remove Duplicate function is used
  This is where i used pivot tables to calculate the Total Sales for each category of products, Region and Month.
  Other interesting reports were also created.
     Diagram of the pivot tables together with the chart
-
     
+    ![TOTAL SALES BY PRODUCT](https://github.com/user-attachments/assets/f5a6f6e6-5e7c-4ba6-80e3-f544c20deb82)
+
  The Sales table was imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
  DIAGRAM
 
