@@ -4,10 +4,10 @@ This is where i documented my first project while learning data analysis with th
 ---
 ### PROJECT DESCRIPTION
     This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data 
-    using Pivot table from Capstone Sales Dataset. Also, different queries were executed from the 
-    database using SQL and thereafter,imported into PowerBI where the actual analysis was carried out    
-    in order to discover the key insights such as the top selling products,Regional performance and 
-    Monthly Sales trends.
+    using Pivot table from Capstone Sales Dataset. Also, different queries were executed from 
+    the database using SQL and thereafter,imported into PowerBI where the actual analysis was
+    carried out in order to discover the key insights such as the top selling products,
+    Regional performanceand Monthly Sales trends.
 ---
 ### DATA SOURCES
     The Data used for this project work is gotten from LITA Incubator.The primary source 
