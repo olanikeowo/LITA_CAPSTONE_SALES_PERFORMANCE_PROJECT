@@ -1,6 +1,24 @@
 ## LITA_CAPSTONE_SALES_PROJECT
 This is where i documented my first project while learning data analysis with the Incubator hub.
 ### PROJECT TITLE: Sales Performance Analysis for a Retail Store. 
+
+    [PROJECT DESCRIPTION](#project-description)
+    
+    [DATA SOURCES](#data-sources)
+    
+    [TOOLS USED](#tools-used)
+    
+    [DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+    
+    [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+    
+    [DATA ANALYSIS](#data-analysis)
+    
+    [DATA VISUALIZATION](#data-visualization)
+    
+    [INSIGHTS(ANALYSIS)](#insights_(analysis))
+    
+    [RECOMMENDATION](#remmendation)
 ---
 ### PROJECT DESCRIPTION
     This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data 
@@ -14,7 +32,7 @@ This is where i documented my first project while learning data analysis with th
     of the Data is Data CSV and it is an open source Data that can be freely downloaded
     from Kaggle or any other Data repository site
 ---
-### TOOL USED
+### TOOLS USED
 -Microsoft Excel [Download Here](https://www.microsoft.com).
   - For Data Cleaning
   - For Analyzing
