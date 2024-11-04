@@ -18,7 +18,8 @@ This is where i documented my first project while learning data analysis with th
     
 [INSIGHTS](#insights)
 
-    [RECOMMENDATION](#recommendation)
+[RECOMMENDATION](#recommendation)
+ 
 ---
 ### PROJECT DESCRIPTION
     This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data 
