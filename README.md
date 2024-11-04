@@ -81,9 +81,16 @@ Several expressions and functions were made to arrive at a desired KPI or metric
 ### DATA VISUALIZATION
 ---
 ### INSIGHTS(ANALYSIS)
- - There is a positve trends of sales going upwards and increasing especially in second month which is February 2024 
- with the total sales of 298800.
- - The
+ - There is a positve trends of sales going upwards and increasing especially in the current year,February 2024 
+ with the total sales of 29,8800.
+ - The product with the highest number of sales is Shoes which is 61,3380, followed by Shirt which is 48,5600
+ - The region with the highest total sales is South with the total sales of 92,7820, followed by East with total sales of 48,5925
+ - The highest quantity sold in products is Hat with total sales of 14,402 which is 29%.
  
 ### RECOMMENDATION
- 
+ I recommend there should be an increase in marketing campaign,so that more people can be awared of the products 
+ in order to be an increase in demand.
+
+  Thank you for reading
+    I am open to an entry-level Data Analyst role.
+       
