@@ -81,21 +81,15 @@ function to search for those empty rows. Then, Remove Duplicate function is used
 - ![PRODUCT WITH NO SALES](https://github.com/user-attachments/assets/c8a1c772-2940-42e1-8e69-bff50ef401c1)
 - ![PERCENTAGE OF TOTAL SALES BY REGION](https://github.com/user-attachments/assets/f007eb61-c306-424b-8af3-9f68a373f7dd)
 
-
-
-
-The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for 
-column quality,distribution, profile and Data types.
-  Diagram of the Table imported
-
-Several expressions and functions were made to arrive at a desired KPI or metrics. which are:
-  - Top-Selling Products
-  - Regional Performance 
-  - Monthly Sales Trends and
-  - insights Analysis
-
 ---
 ### DATA VISUALIZATION
+ The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for 
+   column quality,distribution, profile and Data types. Several expressions and functions were made to arrive at 
+   a desired KPIs or metrics. which are:
+  - Top-Selling Products
+  - Regional Performance and
+  - Monthly Sales Trends
+    
 ![Uploading SALES PERFORMANCE ANALYSYS.png…]()
 
 ---
@@ -108,7 +102,7 @@ Several expressions and functions were made to arrive at a desired KPI or metric
  
 ### RECOMMENDATION
  I recommend there should be an increase in marketing campaign,so that more people can be awared of the products 
- in order to be an increase in demand.
+  in order to be an increase in demand.
 
   Thank you for reading
    - I am open to an entry-level Data Analyst role.
