@@ -16,9 +16,9 @@ This is where i documented my first project while learning data analysis with th
     
 [DATA VISUALIZATION](#data-visualization)
     
-[INSIGHTS(ANALYSIS)](#insights-(analysis))
+[INSIGHTS](#insights)
 
-[RECOMMENDATION](#recommendation)
+    [RECOMMENDATION](#recommendation)
 ---
 ### PROJECT DESCRIPTION
     This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data 
@@ -122,7 +122,7 @@ function to search for those empty rows. Then, Remove Duplicate function is used
 - ![SALES PERFORMANCE ANALYSYS](https://github.com/user-attachments/assets/f1974145-6201-488c-bcf4-ac011e0d52b3)
 
 ---
-### INSIGHTS(ANALYSIS)
+### INSIGHTS
  - There is a positve trends of sales going upwards and increasing especially in the current year,February 2024 
  with the total sales of 29,8800.
  - The product with the highest number of sales is Shoes which is 61,3380, followed by Shirt which is 48,5600
