@@ -79,6 +79,8 @@ Several expressions and functions were made to arrive at a desired KPI or metric
 
 ---
 ### DATA VISUALIZATION
+![Uploading SALES PERFORMANCE ANALYSYS.png…]()
+
 ---
 ### INSIGHTS(ANALYSIS)
  - There is a positve trends of sales going upwards and increasing especially in the current year,February 2024 
@@ -92,5 +94,5 @@ Several expressions and functions were made to arrive at a desired KPI or metric
  in order to be an increase in demand.
 
   Thank you for reading
-    I am open to an entry-level Data Analyst role.
+   - I am open to an entry-level Data Analyst role.
        
