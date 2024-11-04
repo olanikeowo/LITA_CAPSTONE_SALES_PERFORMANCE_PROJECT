@@ -1,24 +1,24 @@
 ## LITA_CAPSTONE_SALES_PROJECT
 This is where i documented my first project while learning data analysis with the Incubator hub.
-### PROJECT TITLE: Sales Performance Analysis for a Retail Store. 
+### PROJECT TITLE: Sales Performance Analysis for a Retail Store.
 
-    [PROJECT DESCRIPTION](#project-description)
+[PROJECT DESCRIPTION](#project-description)
     
-    [DATA SOURCES](#data-sources)
+[DATA SOURCES](#data-sources)
     
-    [TOOLS USED](#tools-used)
+[TOOLS USED](#tools-used)
     
-    [DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
     
-    [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
     
-    [DATA ANALYSIS](#data-analysis)
+[DATA ANALYSIS](#data-analysis)
     
-    [DATA VISUALIZATION](#data-visualization)
+[DATA VISUALIZATION](#data-visualization)
     
-    [INSIGHTS(ANALYSIS)](#insights_(analysis))
-    
-    [RECOMMENDATION](#remmendation)
+[INSIGHTS(ANALYSIS)](#insights-(analysis))
+
+[RECOMMENDATION](#recommendation)
 ---
 ### PROJECT DESCRIPTION
     This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data 
