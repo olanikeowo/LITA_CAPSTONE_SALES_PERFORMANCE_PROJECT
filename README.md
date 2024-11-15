@@ -132,7 +132,8 @@ function to search for those empty rows. Then, Remove Duplicate function is used
 ---
 ### RECOMMENDATION
  I recommend there should be an increase in marketing campaign,so that more people can be awared of the products 
-  in order to be an increase in demand.
+in order to be an increase in demand. Implememt a loyalty program that rewards customers with discounts and early access to sales.
+Establish sales targets and reward top performers with bonuese and other incentives.
 
   Thank you for reading
    - I am open to an entry-level Data Analyst role.
